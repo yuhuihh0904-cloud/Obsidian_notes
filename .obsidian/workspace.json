@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FinReportAgent/Research Memory.md",
+                "file": "未命名/未命名dqw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research Memory"
+              "title": "未命名dqw"
             }
           }
         ]
@@ -178,13 +178,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "01806b6e992f951f",
+  "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
-    "FinReportAgent/未命名dqwd.md",
     "FinReportAgent/Research Memory.md",
+    "未命名/未命名dqw.md",
+    "未命名",
+    "FinReportAgent/未命名dqwd.md",
     "未命名.canvas",
     "欢迎.md",
     "未命名 1",
