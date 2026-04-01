@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FinReportAgent/SQlite_store.md",
+                "file": "FinReportAgent/Vector_Store.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQlite_store"
+              "title": "Vector_Store"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FinReportAgent/SQlite_store.md",
+                "file": "FinReportAgent/Vector_Store.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SQlite_store 的大纲"
+              "title": "Vector_Store 的大纲"
             }
           }
         ],
@@ -179,13 +179,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "390166a512e4541d",
+  "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
-    "FinReportAgent/Research Memory.md",
     "FinReportAgent/SQlite_store.md",
+    "FinReportAgent/Vector_Store.md",
+    "FinReportAgent/Research Memory.md",
     "未命名/未命名dqw.md",
     "未命名",
     "FinReportAgent/未命名dqwd.md",
