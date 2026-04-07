@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FinReportAgent/Vector_Store.md",
+                "file": "FinReportAgent/RAG部分面试题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vector_Store"
+              "title": "RAG部分面试题"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FinReportAgent/Vector_Store.md",
+                "file": "FinReportAgent/RAG部分面试题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Vector_Store 的大纲"
+              "title": "RAG部分面试题 的大纲"
             }
           }
         ],
@@ -184,8 +184,9 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
-    "FinReportAgent/SQlite_store.md",
     "FinReportAgent/Vector_Store.md",
+    "FinReportAgent/RAG部分面试题.md",
+    "FinReportAgent/SQlite_store.md",
     "FinReportAgent/Research Memory.md",
     "未命名/未命名dqw.md",
     "未命名",
