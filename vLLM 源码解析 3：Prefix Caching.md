@@ -1,10 +1,7 @@
-# vLLM 源码解析 3：Prefix Caching 笔记
 
 > 这篇博客是上一篇 **BlockManager 上篇** 的延续。  
 > 上篇主要讲：**BlockManager 如何管理 KV Cache 的物理块**。  
 > 这篇主要讲：**如果不同请求有相同 prefix，vLLM 如何复用已经算好的 KV Cache block**。
-
-说明：原知乎链接可以检索到标题为 **《图解大模型计算加速系列：vLLM源码解析3，Pr
 
 ---
 
