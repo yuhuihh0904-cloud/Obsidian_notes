@@ -1,4 +1,3 @@
-# PDF 切分 / 提取 / 清洗流程笔记
 
 > 代码位置：`app/utils/pdf_parser.py`  
 > 核心入口：`extract_pdf_text()`  
