@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FinReportAgent/Session Memory 代码复习笔记.md",
+                "file": "小林coding/3.Workflow、Agent、Tools 三者是什么关系？为什么 Agentic Workflow 才是生产主流？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Memory 代码复习笔记"
+              "title": "3.Workflow、Agent、Tools 三者是什么关系？为什么 Agentic Workflow 才是生产主流？"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FinReportAgent/Session Memory 代码复习笔记.md",
+                "file": "小林coding/3.Workflow、Agent、Tools 三者是什么关系？为什么 Agentic Workflow 才是生产主流？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Session Memory 代码复习笔记 的大纲"
+              "title": "3.Workflow、Agent、Tools 三者是什么关系？为什么 Agentic Workflow 才是生产主流？ 的大纲"
             }
           }
         ],
@@ -184,11 +184,12 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
+    "FinReportAgent/Session Memory 代码复习笔记.md",
+    "小林coding/3.Workflow、Agent、Tools 三者是什么关系？为什么 Agentic Workflow 才是生产主流？.md",
     "小林coding/2.Agent 的基本架构由哪些核心组件构成？.md",
     "小林coding/1.什么是agent？和llm有什么区别？.md",
     "小林coding",
     "FinReportAgent/Research Memory.md",
-    "FinReportAgent/Session Memory 代码复习笔记.md",
     "FinReportAgent/PDF 切分提取清洗流程笔记.md",
     "FinReportAgent/面试模拟.md",
     "图解大模型训练之：数据并行下篇 —— DeepSpeed ZeRO 零冗余优化.md",
