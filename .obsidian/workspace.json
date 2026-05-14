@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小林coding/9.Agent 的长短期记忆系统怎么做？记忆怎么存？粒度是多少？怎么用？.md",
+                "file": "小林coding/8.AI Agent 的记忆机制与记忆模块设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.Agent 的长短期记忆系统怎么做？记忆怎么存？粒度是多少？怎么用？"
+              "title": "8.AI Agent 的记忆机制与记忆模块设计"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小林coding/9.Agent 的长短期记忆系统怎么做？记忆怎么存？粒度是多少？怎么用？.md",
+                "file": "小林coding/8.AI Agent 的记忆机制与记忆模块设计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "9.Agent 的长短期记忆系统怎么做？记忆怎么存？粒度是多少？怎么用？ 的大纲"
+              "title": "8.AI Agent 的记忆机制与记忆模块设计 的大纲"
             }
           }
         ],
@@ -184,8 +184,9 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
-    "FinReportAgent/Research Memory.md",
     "小林coding/9.Agent 的长短期记忆系统怎么做？记忆怎么存？粒度是多少？怎么用？.md",
+    "小林coding/8.AI Agent 的记忆机制与记忆模块设计.md",
+    "FinReportAgent/Research Memory.md",
     "FinReportAgent/Research Memory 代码复习笔记.md",
     "小林coding/7.复杂任务怎么做任务拆分？为什么要拆分？拆分后效果如何提升？.md",
     "小林coding/6.ReAct、Plan-and-Execute、Reflection 三种 Agent 范式有什么核心区别？实际项目中该如何选型？.md",
@@ -211,7 +212,6 @@
     "FinReportAgent/Vector_Store.md",
     "FinReportAgent/RAG部分面试题.md",
     "FinReportAgent/SQlite_store.md",
-    "未命名/未命名dqw.md",
     "未命名.canvas",
     "未命名 1",
     "FinReportAgent"
