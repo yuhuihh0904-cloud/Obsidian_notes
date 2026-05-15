@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小林coding/16.如何设计多 Agent 的协作与动态切换机制？.md",
+                "file": "小林coding/2.Agent 的基本架构由哪些核心组件构成？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.如何设计多 Agent 的协作与动态切换机制？"
+              "title": "2.Agent 的基本架构由哪些核心组件构成？"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小林coding/16.如何设计多 Agent 的协作与动态切换机制？.md",
+                "file": "小林coding/2.Agent 的基本架构由哪些核心组件构成？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "16.如何设计多 Agent 的协作与动态切换机制？ 的大纲"
+              "title": "2.Agent 的基本架构由哪些核心组件构成？ 的大纲"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
-    "小林coding/15.Agent 的反思机制是什么？为什么要用？怎么实现？.md",
     "小林coding/16.如何设计多 Agent 的协作与动态切换机制？.md",
+    "小林coding/15.Agent 的反思机制是什么？为什么要用？怎么实现？.md",
     "小林coding/14.如何赋予 LLM 规划能力？.md",
     "小林coding/13.为什么有时候选择“手搓”Agent，而不是直接用成熟框架？.md",
     "小林coding/12.Agent 记忆压缩通常有哪些方法？.md",
