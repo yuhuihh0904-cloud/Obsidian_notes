@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小林coding/RAG面试题/7.Embedding 有哪几种算法？三代演进总结.md",
+                "file": "小林coding/RAG面试题/8.什么是向量数据库？如何做向量数据库选型？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.Embedding 有哪几种算法？三代演进总结"
+              "title": "8.什么是向量数据库？如何做向量数据库选型？"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小林coding/RAG面试题/7.Embedding 有哪几种算法？三代演进总结.md",
+                "file": "小林coding/RAG面试题/8.什么是向量数据库？如何做向量数据库选型？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "7.Embedding 有哪几种算法？三代演进总结 的大纲"
+              "title": "8.什么是向量数据库？如何做向量数据库选型？ 的大纲"
             }
           }
         ],
@@ -184,8 +184,9 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
-    "小林coding/RAG面试题/6.RAG 中 Embedding 是什么？如何选择和评估 Embedding 模型？.md",
     "小林coding/RAG面试题/7.Embedding 有哪几种算法？三代演进总结.md",
+    "小林coding/RAG面试题/8.什么是向量数据库？如何做向量数据库选型？.md",
+    "小林coding/RAG面试题/6.RAG 中 Embedding 是什么？如何选择和评估 Embedding 模型？.md",
     "小林coding/RAG面试题/5.怎么规避 RAG 中语义被切割掉的问题？.md",
     "小林coding/RAG面试题/4.RAG 中的 Chunking 文档切割策略.md",
     "小林coding/RAG面试题/3.RAG 和微调有什么区别？各自优劣势是什么？.md",
@@ -211,7 +212,6 @@
     "小林coding/Agent面试题/5.Agent 推理模式有哪些？ReAct 是什么？具体怎么实现？Plan-and-Execute 又解决了什么问题？.md",
     "小林coding/Agent面试题/4.了解哪些 Agent 设计范式？Agent 和 Workflow 的区别是什么？.md",
     "小林coding/Agent面试题/3.Workflow、Agent、Tools 三者是什么关系？为什么 Agentic Workflow 才是生产主流？.md",
-    "FinReportAgent/Session Memory 代码复习笔记.md",
     "小林coding",
     "未命名",
     "未命名.canvas",
