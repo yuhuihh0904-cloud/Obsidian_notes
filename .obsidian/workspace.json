@@ -184,8 +184,9 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
-    "小林coding/RAG面试题/8.什么是向量数据库？如何做向量数据库选型？.md",
+    "小林coding/RAG面试题/11.RAG 中向量检索和关键词检索的区别.md",
     "小林coding/RAG面试题/10.RAG 在线工作流程：用户输入一个问题后，系统如何生成答案？.md",
+    "小林coding/RAG面试题/8.什么是向量数据库？如何做向量数据库选型？.md",
     "小林coding/RAG面试题/7.Embedding 有哪几种算法？三代演进总结.md",
     "小林coding/RAG面试题/6.RAG 中 Embedding 是什么？如何选择和评估 Embedding 模型？.md",
     "小林coding/RAG面试题/5.怎么规避 RAG 中语义被切割掉的问题？.md",
@@ -211,7 +212,6 @@
     "小林coding/Agent面试题/7.复杂任务怎么做任务拆分？为什么要拆分？拆分后效果如何提升？.md",
     "小林coding/Agent面试题/6.ReAct、Plan-and-Execute、Reflection 三种 Agent 范式有什么核心区别？实际项目中该如何选型？.md",
     "小林coding/Agent面试题/5.Agent 推理模式有哪些？ReAct 是什么？具体怎么实现？Plan-and-Execute 又解决了什么问题？.md",
-    "小林coding/Agent面试题/4.了解哪些 Agent 设计范式？Agent 和 Workflow 的区别是什么？.md",
     "小林coding",
     "未命名",
     "未命名.canvas",
