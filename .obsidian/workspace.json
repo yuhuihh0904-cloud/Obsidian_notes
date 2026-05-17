@@ -184,8 +184,9 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
-    "小林coding/RAG面试题/10.RAG 在线工作流程：用户输入一个问题后，系统如何生成答案？.md",
+    "小林coding/RAG面试题/13.RAG：什么是多路召回？具体怎么做？.md",
     "小林coding/RAG面试题/11.RAG：向量检索和关键词检索的核心区别对比.md",
+    "小林coding/RAG面试题/10.RAG 在线工作流程：用户输入一个问题后，系统如何生成答案？.md",
     "小林coding/RAG面试题/11.RAG 中向量检索和关键词检索的区别.md",
     "小林coding/RAG面试题/8.什么是向量数据库？如何做向量数据库选型？.md",
     "小林coding/RAG面试题/7.Embedding 有哪几种算法？三代演进总结.md",
@@ -211,7 +212,6 @@
     "FinReportAgent/Research Memory.md",
     "FinReportAgent/Research Memory 代码复习笔记.md",
     "小林coding/Agent面试题/7.复杂任务怎么做任务拆分？为什么要拆分？拆分后效果如何提升？.md",
-    "小林coding/Agent面试题/6.ReAct、Plan-and-Execute、Reflection 三种 Agent 范式有什么核心区别？实际项目中该如何选型？.md",
     "小林coding",
     "未命名",
     "未命名.canvas",
