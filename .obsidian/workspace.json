@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小林coding/LLM工具调用/未命名.md",
+                "file": "小林coding/LLM工具调用/2.大模型是怎么学会调用外部工具的？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "2.大模型是怎么学会调用外部工具的？"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小林coding/LLM工具调用/未命名.md",
+                "file": "小林coding/LLM工具调用/2.大模型是怎么学会调用外部工具的？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "2.大模型是怎么学会调用外部工具的？ 的大纲"
             }
           }
         ],
@@ -188,7 +188,7 @@
     "小林coding/RAG面试题/20.RAG 落地最难的地方是什么？.md",
     "小林coding/RAG面试题/19.RAG 知识库动态更新：文档变了以后怎么办？.md",
     "小林coding/RAG面试题/18.RAG 效果评估：如何量化你的 RAG 系统好不好？.md",
-    "小林coding/LLM工具调用/未命名.md",
+    "小林coding/LLM工具调用/2.大模型是怎么学会调用外部工具的？.md",
     "小林coding/LLM工具调用/1.Function Calling 是什么？原理是什么？.md",
     "小林coding/LLM工具调用",
     "未命名.base",
