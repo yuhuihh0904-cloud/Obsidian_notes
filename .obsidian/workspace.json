@@ -184,6 +184,7 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
+    "小林coding/LLM工具调用/7.Function Calling 和 MCP：什么场景下分别使用？.md",
     "小林coding/LLM工具调用/4.什么是 MCP（模型上下文协议）？核心内容是什么？.md",
     "小林coding/LLM工具调用/5.MCP 由哪几部分组成？.md",
     "小林coding/LLM工具调用/3.大模型的 Function Call 能力是怎么训练出来的？.md",
@@ -211,7 +212,6 @@
     "小林coding/RAG面试题/5.怎么规避 RAG 中语义被切割掉的问题？.md",
     "小林coding/RAG面试题/4.RAG 中的 Chunking 文档切割策略.md",
     "小林coding/RAG面试题/3.RAG 和微调有什么区别？各自优劣势是什么？.md",
-    "小林coding/RAG面试题/2.RAG 主要解决什么问题？.md",
     "小林coding/RAG面试题",
     "小林coding/Agent面试题",
     "小林coding",
