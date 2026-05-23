@@ -184,6 +184,7 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
+    "小林coding/大模型工程/4.大模型的位置编码：SinCos、ALiBi、RoPE 为什么 RoPE 赢了？.md",
     "小林coding/大模型工程/3.MHA、MQA、GQA、FlashAttention：多头注意力有哪些局限？怎么优化？.md",
     "小林coding/大模型工程/2.Transformer 架构基本原理：Encoder、Decoder 和 Decoder-only.md",
     "小林coding/大模型工程/1.什么是大语言模型？和传统 NLP 模型有什么区别？.md",
@@ -212,7 +213,6 @@
     "小林coding/19.RAG 知识库动态更新：文档变了以后怎么办？.md",
     "小林coding/18.RAG 效果评估：如何量化你的 RAG 系统好不好？.md",
     "小林coding/RAG面试题/16.RAG：什么时候用图数据库增强向量检索？.md",
-    "小林coding/RAG面试题/15.RAG 高级范式：Self-RAG、CRAG、GraphRAG、Agentic RAG.md",
     "小林coding/RAG面试题",
     "小林coding/Agent面试题",
     "小林coding",
