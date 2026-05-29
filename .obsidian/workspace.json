@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FinReportAgent/FinReportAgent 项目面试 13 问总结.md",
+                "file": "医疗大模型微调项目面试题库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FinReportAgent 项目面试 13 问总结"
+              "title": "医疗大模型微调项目面试题库"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FinReportAgent/FinReportAgent 项目面试 13 问总结.md",
+                "file": "医疗大模型微调项目面试题库.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "FinReportAgent 项目面试 13 问总结 的大纲"
+              "title": "医疗大模型微调项目面试题库 的大纲"
             }
           }
         ],
@@ -184,8 +184,9 @@
   },
   "active": "ac68a3f8e959f043",
   "lastOpenFiles": [
-    "小林coding/LLM工具调用/5.MCP 由哪几部分组成？.md",
     "FinReportAgent/FinReportAgent 项目面试 13 问总结.md",
+    "医疗大模型微调项目面试题库.md",
+    "小林coding/LLM工具调用/5.MCP 由哪几部分组成？.md",
     "小林coding/大模型工程/8.大模型微调方案：全量微调、LoRA、QLoRA、SFT、DPO 的关系.md",
     "小林coding/大模型工程/7.Scaling Law 和涌现能力：大模型为什么越训越强？.md",
     "小林coding/大模型工程/6.大模型训练三阶段：预训练、SFT、RLHF 对齐.md",
@@ -210,7 +211,6 @@
     "小林coding/LLM工具调用/4.什么是 MCP（模型上下文协议）？核心内容是什么？.md",
     "小林coding/LLM工具调用/3.大模型的 Function Call 能力是怎么训练出来的？.md",
     "小林coding/LLM工具调用/2.大模型是怎么学会调用外部工具的？.md",
-    "小林coding/RAG面试题/17.RAG：如何规避大模型幻觉？.md",
     "小林coding/LLM工具调用",
     "未命名.base",
     "小林coding/RAG面试题",
