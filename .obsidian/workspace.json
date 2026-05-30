@@ -182,8 +182,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ac68a3f8e959f043",
+  "active": "01806b6e992f951f",
   "lastOpenFiles": [
+    "未命名.md",
     "FinReportAgent/FinReportAgent 项目面试 13 问总结.md",
     "医疗大模型微调项目面试题库.md",
     "小林coding/LLM工具调用/5.MCP 由哪几部分组成？.md",
@@ -210,7 +211,6 @@
     "小林coding/LLM工具调用/7.Function Calling 和 MCP：什么场景下分别使用？.md",
     "小林coding/LLM工具调用/4.什么是 MCP（模型上下文协议）？核心内容是什么？.md",
     "小林coding/LLM工具调用/3.大模型的 Function Call 能力是怎么训练出来的？.md",
-    "小林coding/LLM工具调用/2.大模型是怎么学会调用外部工具的？.md",
     "小林coding/LLM工具调用",
     "未命名.base",
     "小林coding/RAG面试题",
