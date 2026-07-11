@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "1-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "1-4"
             }
           },
           {
@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "1-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "1-4"
+            }
+          },
+          {
+            "id": "72e832db45a47256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5-8"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "5-8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "5-8 的大纲"
             }
           }
         ],
@@ -211,10 +225,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aa2572c4f2f5d46f",
+  "active": "72e832db45a47256",
   "lastOpenFiles": [
-    "未命名 1.md",
-    "未命名.md",
+    "1-4.md",
+    "5-8.md",
+    "9-13.md",
     "医疗大模型微调项目面试题库.md",
     "未命名",
     "小林coding/大模型工程/未命名.md",
@@ -240,7 +255,6 @@
     "小林coding/LLM工具调用/12.A2A 协议是什么？为什么需要 A2A？.md",
     "小林coding/LLM工具调用/11.Function Calling、MCP、Skill 这三个概念有什么区别？.md",
     "小林coding/LLM工具调用/9.什么是 Skill？为什么说它可能比 MCP 更适合复杂 Agent？.md",
-    "小林coding/LLM工具调用/8.为什么有些推理模型不支持 MCP？.md",
     "小林coding/LLM工具调用",
     "未命名.base",
     "小林coding/RAG面试题",
