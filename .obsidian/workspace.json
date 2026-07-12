@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习笔记简单版.md",
+                "file": "页码索引.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "复习笔记简单版"
+              "title": "页码索引"
             }
           }
         ],
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复习笔记简单版.md",
+                "file": "页码索引.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "复习笔记简单版 的大纲"
+              "title": "页码索引 的大纲"
             }
           }
         ],
@@ -255,8 +255,8 @@
   },
   "active": "f273743c099c9ac1",
   "lastOpenFiles": [
-    "页码索引.md",
     "复习笔记简单版.md",
+    "页码索引.md",
     "1-4.md",
     "9-13.md",
     "5-8.md",
